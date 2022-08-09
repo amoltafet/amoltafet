@@ -2,21 +2,10 @@
 <h3 align="center">A passionate frontend developer from U.S</h3>
 
 - 🔭 I’m currently working on [OvalPay](https://github.com/amoltafet/OvalPay.git)
-
 - 🌱 I’m currently learning **React, Vue.js, Framer, C#, Java**
-
-- afsaf [afsasaf](afsfasf)
-
-- fassa [fasfa](saf)
-
 - 👨‍💻 All of my projects are available at [amoltafet.github.io](amoltafet.github.io)
-
-- 📝 I regularly write articles fasa [fasfasf](fasfasf)
-
 - 💬 Ask me about **react, vue, c#**
-
 - 📫 How to reach me **moltafet.ahmad2015@gmail.com**
-
 - 📄 Know about my experiences [https://amoltafet.github.io/static/media/resume.ce5763b7.pdf](https://amoltafet.github.io/static/media/resume.ce5763b7.pdf)
 
 - ⚡ Fun fact **I am trilingual**
