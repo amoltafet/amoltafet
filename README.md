@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Moltafet</h1>
-<h3 align="center">A passionate frontend developer from U.S</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 - 🔭 I’m currently working on [OvalPay](https://github.com/amoltafet/OvalPay.git)
 - 🌱 I’m currently learning **React, Vue.js, Framer, C#, Java**
