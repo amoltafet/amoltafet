@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Moltafet</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on [OvalPay](https://github.com/amoltafet/OvalPay.git)
+- 🔭 I’m currently working on [OviCore](https://ovicore.com)
 - 🌱 I’m currently learning **React, Vue.js, Framer, C#, Java**
 - 👨‍💻 All of my projects are available at [amoltafet.github.io](amoltafet.github.io)
 - 💬 Ask me about **react, vue, c#**
